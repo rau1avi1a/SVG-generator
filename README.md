@@ -11,6 +11,8 @@ This application uses Node.js and inquirer in order to create a SVG logo.
 ## Installation
 This application requires Node.js to run. Use '$ npm i' in order to install all dependencies.
 ## Usage
+<img src="./assets/SVG-Generator-tutorial.gif"/>
+
 After installing all dependencies (refer to Installation above), run '$ node index.js' on the console in order to initialize the application. Answer the prompted questions until a message that says 'Successfully created SVG logo!' appears. The created logo will be under 'output/logo.svg'.
 ## License
 N/A
